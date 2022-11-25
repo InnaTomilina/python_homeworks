@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python task_1_1.py
+python task_1_2.py
